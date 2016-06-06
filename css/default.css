@@ -21,3 +21,12 @@ body{
                     0px 0px 13px deepblue,
                     0px 0px 13px deepblue,
                     0px 0px 13px deepblue,}
+
+#box-shadow{
+  font-size: 30px;
+}
+.box-drop_shadow{
+  box-shadow: 2px 2px 5px gray;
+  padding: 5px;
+  margin: 20px;
+}
